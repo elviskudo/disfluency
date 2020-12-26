@@ -109,7 +109,10 @@ const arrText = [
     'Ketika kita melakukan penelitian menggunakan kelompok yang sudah ada, kita menyebutnya sebagai desain kuasi-eksperimental.',
     'Penelitian kuasi-eksperimen sebetulnya mirip dengan eksperimen biasa, karena kita membandingkan beberapa kelompok yang berbeda.',
     'Tetapi, kuasi-eksperimen bukan eksperimen sungguhan, karena kita tidak menempatkan partisipan dalam kelompok secara acak, sehingga kita tidak dapat menyimpulkan bahwa perubahan pada satu variabel (menarik vs tidak menarik) menyebabkan perubahan pada variabel lain (bahagia vs tidak bahagia).',
-    'Jadi, sebagai contoh, penelitian di bidang medis bisa melakukan penelitian kuasi-eksperimen untuk menguji efektivitas suatu obat jerawat dengan membandingkan dosisnya (kelompok kontrol, kelompok yang menggunakan obat sekali sehari, kelompok yang menggunakan obat sehari dua kali) pada partisipan laki-laki dan perempuan. Peneliti mungkin menemukan perbedaan efektivitas obat pada laki-laki dan perempuan, tetapi tidak bisa memasukkan jenis kelamin sebagai variabel yang menyebabkan perbedaan. Klaim hubungan sebab-akibat tidak tepat untuk dilakukan pada penelitian kuasi eksperimen karena kelompok partisipan tidak acak. Meski begitu, hasil dari penelitian kuasi-eksperimen dapat sangat relevan dan informatif.',
+    'Jadi, sebagai contoh, penelitian di bidang medis bisa melakukan penelitian kuasi-eksperimen untuk menguji efektivitas suatu obat jerawat dengan membandingkan dosisnya (kelompok kontrol, kelompok yang menggunakan obat sekali sehari, kelompok yang menggunakan obat sehari dua kali) pada partisipan laki-laki dan perempuan.', 
+    'Peneliti mungkin menemukan perbedaan efektivitas obat pada laki-laki dan perempuan, tetapi tidak bisa memasukkan jenis kelamin sebagai variabel yang menyebabkan perbedaan.', 
+    'Klaim hubungan sebab-akibat tidak tepat untuk dilakukan pada penelitian kuasi eksperimen karena kelompok partisipan tidak acak.', 
+    'Meski begitu, hasil dari penelitian kuasi-eksperimen dapat sangat relevan dan informatif.',
     'Penting untuk mampu mengidentifikasi kapan hubungan sebab-akibat dalam suatu penelitian dapat digunakan.',
     'Termasuk juga kapan klaim tersebut dianggap cukup kuat, dan kapan klaim hubungan sebab-akibat tadi tidak tepat.'
 ]
